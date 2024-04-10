@@ -1,6 +1,6 @@
 {
   "name": "axios-https-snip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Very lightweight module for downloading an HTTPS source with Axios",
   "main": "index.js",
   "scripts": {
