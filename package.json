@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/nullish/axios-https-snip/issues"
   },
-  "homepage": "https://github.com/nullish/axios-https-snip#readme"
+  "homepage": "https://github.com/nullish/axios-https-snip#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "https": "^1.0.0"
+  }
 }
