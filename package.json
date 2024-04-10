@@ -1,0 +1,23 @@
+{
+  "name": "axios-https-snip",
+  "version": "1.0.0",
+  "description": "Very lightweight module for downloading an HTTPS source with Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullish/axios-https-snip.git"
+  },
+  "keywords": [
+    "axios",
+    "https"
+  ],
+  "author": "Nullish",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nullish/axios-https-snip/issues"
+  },
+  "homepage": "https://github.com/nullish/axios-https-snip#readme"
+}
